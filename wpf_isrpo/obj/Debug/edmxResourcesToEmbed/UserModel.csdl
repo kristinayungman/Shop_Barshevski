@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="UserBaseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="fio" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Order" Relationship="UserBaseModel.FK_Order_User" FromRole="User" ToRole="Order" />
+    <Property Name="email" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="role_id" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Role" Relationship="UserBaseModel.FK_User_Role" FromRole="User" ToRole="Role" />
+  </EntityType>
+  <EntityContainer Name="UserBaseEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="User" EntityType="Self.User" />
+    <EntitySet Name="Category" EntityType="UserBaseModel.Category" />
+    <EntitySet Name="Order" EntityType="UserBaseModel.Order" />
+    <EntitySet Name="Product" EntityType="UserBaseModel.Product" />
+    <AssociationSet Name="FK_Product_Category" Association="UserBaseModel.FK_Product_Category">
+      <End Role="Category" EntitySet="Category" />
+      <End Role="Product" EntitySet="Product" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Order_Product" Association="UserBaseModel.FK_Order_Product">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="Order" EntitySet="Order" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Order_User" Association="UserBaseModel.FK_Order_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="Order" EntitySet="Order" />
+    </AssociationSet>
+    <EntitySet Name="Role" EntityType="UserBaseModel.Role" />
+    <AssociationSet Name="FK_User_Role" Association="UserBaseModel.FK_User_Role">
+      <End Role="Role" EntitySet="Role" />
+      <End Role="User" EntitySet="User" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Product" Relationship="UserBaseModel.FK_Product_Category" FromRole="Category" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="user_id" Type="Int32" Nullable="false" />
+    <Property Name="product_id" Type="Int32" Nullable="false" />
+    <Property Name="timestamp" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="status" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Product" Relationship="UserBaseModel.FK_Order_Product" FromRole="Order" ToRole="Product" />
+    <NavigationProperty Name="User" Relationship="UserBaseModel.FK_Order_User" FromRole="Order" ToRole="User" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="category_id" Type="Int32" Nullable="false" />
+    <Property Name="description" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="photo" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="price" Type="Decimal" Nullable="false" Precision="18" Scale="0" />
+    <Property Name="count" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Category" Relationship="UserBaseModel.FK_Product_Category" FromRole="Product" ToRole="Category" />
+    <NavigationProperty Name="Order" Relationship="UserBaseModel.FK_Order_Product" FromRole="Product" ToRole="Order" />
+  </EntityType>
+  <Association Name="FK_Product_Category">
+    <End Type="UserBaseModel.Category" Role="Category" Multiplicity="1" />
+    <End Type="UserBaseModel.Product" Role="Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="category_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Order_Product">
+    <End Type="UserBaseModel.Product" Role="Product" Multiplicity="1" />
+    <End Type="UserBaseModel.Order" Role="Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="product_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Order_User">
+    <End Type="UserBaseModel.User" Role="User" Multiplicity="1" />
+    <End Type="UserBaseModel.Order" Role="Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="user_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="role1" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="User" Relationship="UserBaseModel.FK_User_Role" FromRole="Role" ToRole="User" />
+  </EntityType>
+  <Association Name="FK_User_Role">
+    <End Type="UserBaseModel.Role" Role="Role" Multiplicity="1" />
+    <End Type="UserBaseModel.User" Role="User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Role">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="role_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

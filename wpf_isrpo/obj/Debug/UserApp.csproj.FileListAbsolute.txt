@@ -1,0 +1,108 @@
+C:\Users\328-6\Desktop\Мезенцев\UserApp\obj\Debug\UserApp.csproj.AssemblyReference.cache
+C:\Users\328-6\Desktop\Мезенцев\UserApp\obj\Debug\MainWindow.g.cs
+C:\Users\328-6\Desktop\Мезенцев\UserApp\obj\Debug\App.g.cs
+C:\Users\328-6\Desktop\Мезенцев\UserApp\obj\Debug\UserApp_Content.g.cs
+C:\Users\328-6\Desktop\Мезенцев\UserApp\obj\Debug\UserApp_MarkupCompile.cache
+C:\Users\328-6\Desktop\Мезенцев\UserApp\obj\Debug\UserApp_MarkupCompile.lref
+C:\Users\328-6\Desktop\Мезенцев\UserApp\obj\Debug\pages\AdminPage.g.cs
+C:\Users\328-6\Desktop\Мезенцев\UserApp\obj\Debug\pages\AutorisationPage.g.cs
+C:\Users\328-6\Desktop\Мезенцев\UserApp\obj\Debug\pages\LKPage.g.cs
+C:\Users\328-6\Desktop\Мезенцев\UserApp\obj\Debug\pages\RegisterPage.g.cs
+C:\Users\328-6\Desktop\Мезенцев\UserApp\bin\Debug\UserApp.exe.config
+C:\Users\328-6\Desktop\Мезенцев\UserApp\bin\Debug\UserApp.exe
+C:\Users\328-6\Desktop\Мезенцев\UserApp\bin\Debug\UserApp.pdb
+C:\Users\328-6\Desktop\Мезенцев\UserApp\bin\Debug\EntityFramework.dll
+C:\Users\328-6\Desktop\Мезенцев\UserApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\328-6\Desktop\Мезенцев\UserApp\bin\Debug\EntityFramework.xml
+C:\Users\328-6\Desktop\Мезенцев\UserApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\328-6\Desktop\Мезенцев\UserApp\obj\Debug\MainWindow.baml
+C:\Users\328-6\Desktop\Мезенцев\UserApp\obj\Debug\pages\AdminPage.baml
+C:\Users\328-6\Desktop\Мезенцев\UserApp\obj\Debug\pages\AutorisationPage.baml
+C:\Users\328-6\Desktop\Мезенцев\UserApp\obj\Debug\pages\LKPage.baml
+C:\Users\328-6\Desktop\Мезенцев\UserApp\obj\Debug\pages\RegisterPage.baml
+C:\Users\328-6\Desktop\Мезенцев\UserApp\obj\Debug\UserApp.g.resources
+C:\Users\328-6\Desktop\Мезенцев\UserApp\obj\Debug\UserApp.Properties.Resources.resources
+C:\Users\328-6\Desktop\Мезенцев\UserApp\obj\Debug\UserApp.csproj.GenerateResource.cache
+C:\Users\328-6\Desktop\Мезенцев\UserApp\obj\Debug\UserApp.csproj.CoreCompileInputs.cache
+C:\Users\328-6\Desktop\Мезенцев\UserApp\obj\Debug\UserApp.csproj.CopyComplete
+C:\Users\328-6\Desktop\Мезенцев\UserApp\obj\Debug\UserApp.exe
+C:\Users\328-6\Desktop\Мезенцев\UserApp\obj\Debug\UserApp.pdb
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\obj\Debug\UserApp.csproj.AssemblyReference.cache
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\obj\Debug\MainWindow.g.cs
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\obj\Debug\pages\AdminPage.g.cs
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\obj\Debug\pages\AutorisationPage.g.cs
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\obj\Debug\pages\LKPage.g.cs
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\obj\Debug\pages\RegisterPage.g.cs
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\obj\Debug\App.g.cs
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\obj\Debug\UserApp_Content.g.cs
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\obj\Debug\UserApp_MarkupCompile.cache
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\obj\Debug\UserApp_MarkupCompile.lref
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\obj\Debug\UserApp.exe
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\obj\Debug\UserApp.pdb
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\bin\Debug\UserApp.exe.config
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\bin\Debug\UserApp.exe
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\bin\Debug\UserApp.pdb
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\bin\Debug\EntityFramework.dll
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\bin\Debug\EntityFramework.xml
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\obj\Debug\MainWindow.baml
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\obj\Debug\pages\AdminPage.baml
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\obj\Debug\pages\AutorisationPage.baml
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\obj\Debug\pages\LKPage.baml
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\obj\Debug\pages\RegisterPage.baml
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\obj\Debug\UserApp.g.resources
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\obj\Debug\UserApp.Properties.Resources.resources
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\obj\Debug\UserApp.csproj.GenerateResource.cache
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\obj\Debug\UserApp.csproj.CoreCompileInputs.cache
+C:\Users\Ноутбук\Desktop\UserЮнгман\wpf_isrpo\obj\Debug\UserApp.csproj.Up2Date
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\bin\Debug\UserApp.exe.config
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\bin\Debug\UserApp.exe
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\bin\Debug\UserApp.pdb
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\bin\Debug\EntityFramework.dll
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\bin\Debug\EntityFramework.SqlServer.dll
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\bin\Debug\EntityFramework.xml
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\bin\Debug\EntityFramework.SqlServer.xml
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\bin\Debug\ru\EntityFramework.resources.dll
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\UserApp.csproj.AssemblyReference.cache
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\pages\AdminPage.g.cs
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\pages\AutorisationPage.g.cs
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\pages\LKPage.g.cs
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\pages\RegisterPage.g.cs
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\App.g.cs
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\UserApp_Content.g.cs
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\UserApp_MarkupCompile.cache
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\UserApp_MarkupCompile.lref
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\pages\AdminPage.baml
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\pages\AutorisationPage.baml
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\pages\LKPage.baml
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\pages\RegisterPage.baml
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\UserApp.g.resources
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\UserApp.Properties.Resources.resources
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\UserApp.csproj.GenerateResource.cache
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\UserApp.csproj.CoreCompileInputs.cache
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\UserApp.csproj.Up2Date
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\UserApp.exe
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\UserApp.pdb
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\bin\Debug\MaterialDesignColors.dll
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\pages\Prodavec.g.cs
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\pages\ZakazPage.g.cs
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\pages\Prodavec.baml
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\pages\ZakazPage.baml
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\pages\AddProductPage.g.cs
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\pages\ProductSellerPage.g.cs
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\pages\AddProductPage.baml
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\pages\ProductSellerPage.baml
+c:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\NavigationHost.baml
+c:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\NavigationHost.g.cs
+c:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\App.baml
+c:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\pages\CheckoutPage.baml
+c:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\pages\CheckoutPage.g.cs

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="50511f63f17d47c080c28c8fd702123a" Name="Diagram1">
+        <EntityTypeShape EntityType="UserBaseModel.sysdiagrams" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="UserBaseModel.User" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="UserBaseModel.Category" Width="1.5" PointX="0.75" PointY="4.125" />
+        <EntityTypeShape EntityType="UserBaseModel.Order" Width="1.5" PointX="5.25" PointY="5.875" />
+        <EntityTypeShape EntityType="UserBaseModel.Product" Width="1.5" PointX="3" PointY="6.625" />
+        <AssociationConnector Association="UserBaseModel.FK_Product_Category" />
+        <AssociationConnector Association="UserBaseModel.FK_Order_Product" />
+        <AssociationConnector Association="UserBaseModel.FK_Order_User" />
+        <EntityTypeShape EntityType="UserBaseModel.Role" Width="1.5" PointX="0.75" PointY="7.375" />
+        <AssociationConnector Association="UserBaseModel.FK_User_Role" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

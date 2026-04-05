@@ -1,0 +1,20 @@
+﻿UserApp
+
+
+winexe
+C#
+.cs
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\obj\Debug\
+UserApp
+none
+false
+DEBUG;TRACE
+C:\пр31 Барщевский\UserЮнгман\wpf_isrpo\App.xaml
+10613288726
+21239207485
+29-908126158
+212135990090
+NavigationHost.xaml;pages\AddProductPage.xaml;pages\AdminPage.xaml;pages\AutorisationPage.xaml;pages\CheckoutPage.xaml;pages\LKPage.xaml;pages\Prodavec.xaml;pages\ProductSellerPage.xaml;pages\RegisterPage.xaml;pages\ZakazPage.xaml;
+
+True
+

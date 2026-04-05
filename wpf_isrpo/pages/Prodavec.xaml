@@ -1,0 +1,56 @@
+<Page x:Class="UserApp.pages.Prodavec"
+      x:Name="Root"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      mc:Ignorable="d"
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Заказы">
+
+    <Grid Name="MainGrid">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Margin="8">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <TextBlock x:Name="TitleBlock" FontSize="28" TextAlignment="Center" Margin="0,0,0,8"/>
+            <DataGrid Grid.Row="1" x:Name="OrderGrid" AutoGenerateColumns="False" CanUserAddRows="False" Background="White" IsReadOnly="True">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Номер" Binding="{Binding id}" Width="70"/>
+                    <DataGridTextColumn Header="ФИО" Binding="{Binding User.fio}" Width="*"/>
+                    <DataGridTextColumn Header="E-mail" Binding="{Binding User.email}" Width="*"/>
+                    <DataGridTextColumn Header="Товар" Binding="{Binding Product.name}" Width="*"/>
+                    <DataGridTextColumn Header="Дата" Binding="{Binding timestamp_text}" Width="*"/>
+                    <DataGridTemplateColumn Header="Статус" Width="150">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <ComboBox DisplayMemberPath="Value"
+                                          SelectedValuePath="Key"
+                                          ItemsSource="{Binding DataContext.StatusChoices, RelativeSource={RelativeSource AncestorType=Page}}"
+                                          SelectedValue="{Binding status, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                          DropDownClosed="StatusCombo_DropDownClosed"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+
+        <DockPanel Grid.Row="1" LastChildFill="False" Height="44">
+            <StackPanel Orientation="Horizontal" DockPanel.Dock="Left">
+                <Button Content="Товары" Click="NavProducts_Click" Margin="4,2"/>
+                <Button Content="Заказы" Click="NavOrders_Click" Margin="4,2"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" DockPanel.Dock="Right">
+                <Button Content="Назад" Click="NavBack_Click" Margin="4,2"/>
+                <Button Content="Выйти" Click="NavExit_Click" Margin="4,2"/>
+            </StackPanel>
+        </DockPanel>
+    </Grid>
+</Page>

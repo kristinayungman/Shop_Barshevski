@@ -1,0 +1,527 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\zakazpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:pages\\zakazpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|c:\\\u043F\u044031 \u0431\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\user\u044E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:pages\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\autorisationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:pages\\autorisationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\registerpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:pages\\registerpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\autorisationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:pages\\autorisationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\lkpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:pages\\lkpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\addproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:pages\\addproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\productsellerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:pages\\productsellerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\prodavec.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:pages\\prodavec.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\checkoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:pages\\checkoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:pages\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\prodavec.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:pages\\prodavec.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\productsellerpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:pages\\productsellerpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\usermodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:usermodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\adminpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:pages\\adminpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\addproductpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:pages\\addproductpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\zakazpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:pages\\zakazpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\lkpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:pages\\lkpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\usermodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:usermodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\usermodel.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:usermodel.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\usermodel.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:usermodel.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\usermodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:usermodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\usermodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:usermodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\sysdiagrams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C97E037-34EF-4587-B49E-EB722EC1EEEA}|UserApp.csproj|solutionrelative:sysdiagrams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutorisationPage.xaml",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\AutorisationPage.xaml",
+              "RelativeDocumentMoniker": "pages\\AutorisationPage.xaml",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\AutorisationPage.xaml",
+              "RelativeToolTip": "pages\\AutorisationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-04T20:16:01.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZakazPage.xaml",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\ZakazPage.xaml",
+              "RelativeDocumentMoniker": "pages\\ZakazPage.xaml",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\ZakazPage.xaml",
+              "RelativeToolTip": "pages\\ZakazPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-27T09:48:34.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminPage.xaml",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\AdminPage.xaml",
+              "RelativeDocumentMoniker": "pages\\AdminPage.xaml",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\AdminPage.xaml",
+              "RelativeToolTip": "pages\\AdminPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-15T08:46:19.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterPage.xaml",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\RegisterPage.xaml",
+              "RelativeDocumentMoniker": "pages\\RegisterPage.xaml",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\RegisterPage.xaml",
+              "RelativeToolTip": "pages\\RegisterPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-04T20:15:39.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddProductPage.xaml",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\AddProductPage.xaml",
+              "RelativeDocumentMoniker": "pages\\AddProductPage.xaml",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\AddProductPage.xaml",
+              "RelativeToolTip": "pages\\AddProductPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-01T06:06:31.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterPage.xaml.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\RegisterPage.xaml.cs",
+              "RelativeDocumentMoniker": "pages\\RegisterPage.xaml.cs",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\RegisterPage.xaml.cs",
+              "RelativeToolTip": "pages\\RegisterPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:59:46.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductSellerPage.xaml",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\ProductSellerPage.xaml",
+              "RelativeDocumentMoniker": "pages\\ProductSellerPage.xaml",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\ProductSellerPage.xaml",
+              "RelativeToolTip": "pages\\ProductSellerPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-01T06:04:07.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutorisationPage.xaml.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\AutorisationPage.xaml.cs",
+              "RelativeDocumentMoniker": "pages\\AutorisationPage.xaml.cs",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\AutorisationPage.xaml.cs",
+              "RelativeToolTip": "pages\\AutorisationPage.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T09:01:30.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LKPage.xaml",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\LKPage.xaml",
+              "RelativeDocumentMoniker": "pages\\LKPage.xaml",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\LKPage.xaml",
+              "RelativeToolTip": "pages\\LKPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-04T20:32:23.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Prodavec.xaml",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\Prodavec.xaml",
+              "RelativeDocumentMoniker": "pages\\Prodavec.xaml",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\Prodavec.xaml",
+              "RelativeToolTip": "pages\\Prodavec.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-27T09:57:16.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CheckoutPage.xaml",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\CheckoutPage.xaml",
+              "RelativeDocumentMoniker": "pages\\CheckoutPage.xaml",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\CheckoutPage.xaml",
+              "RelativeToolTip": "pages\\CheckoutPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-04T17:51:05.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-04T17:43:16.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductSellerPage.xaml.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\ProductSellerPage.xaml.cs",
+              "RelativeDocumentMoniker": "pages\\ProductSellerPage.xaml.cs",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\ProductSellerPage.xaml.cs",
+              "RelativeToolTip": "pages\\ProductSellerPage.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T06:05:31.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-01T10:06:43.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserModel.Context.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\UserModel.Context.cs",
+              "RelativeDocumentMoniker": "UserModel.Context.cs",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\UserModel.Context.cs",
+              "RelativeToolTip": "UserModel.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:50:32.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminPage.xaml.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\AdminPage.xaml.cs",
+              "RelativeDocumentMoniker": "pages\\AdminPage.xaml.cs",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\AdminPage.xaml.cs",
+              "RelativeToolTip": "pages\\AdminPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T09:21:22.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:50:30.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Prodavec.xaml.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\Prodavec.xaml.cs",
+              "RelativeDocumentMoniker": "pages\\Prodavec.xaml.cs",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\Prodavec.xaml.cs",
+              "RelativeToolTip": "pages\\Prodavec.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAApwBMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T05:57:50.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\SessionManager.cs",
+              "RelativeDocumentMoniker": "SessionManager.cs",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\SessionManager.cs",
+              "RelativeToolTip": "SessionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T05:38:22.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddProductPage.xaml.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\AddProductPage.xaml.cs",
+              "RelativeDocumentMoniker": "pages\\AddProductPage.xaml.cs",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\AddProductPage.xaml.cs",
+              "RelativeToolTip": "pages\\AddProductPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T06:07:03.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ZakazPage.xaml.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\ZakazPage.xaml.cs",
+              "RelativeDocumentMoniker": "pages\\ZakazPage.xaml.cs",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\ZakazPage.xaml.cs",
+              "RelativeToolTip": "pages\\ZakazPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T06:03:08.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LKPage.xaml.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\LKPage.xaml.cs",
+              "RelativeDocumentMoniker": "pages\\LKPage.xaml.cs",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\pages\\LKPage.xaml.cs",
+              "RelativeToolTip": "pages\\LKPage.xaml.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwF4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:56:27.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\Category.cs",
+              "RelativeDocumentMoniker": "Category.cs",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\Category.cs",
+              "RelativeToolTip": "Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T10:20:10.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserModel.Context.tt",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\UserModel.Context.tt",
+              "RelativeDocumentMoniker": "UserModel.Context.tt",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\UserModel.Context.tt",
+              "RelativeToolTip": "UserModel.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-27T10:11:18.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\UserModel.edmx",
+              "RelativeDocumentMoniker": "UserModel.edmx",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\UserModel.edmx [Diagram1]",
+              "RelativeToolTip": "UserModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-03-15T08:49:59.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserModel.Designer.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\UserModel.Designer.cs",
+              "RelativeDocumentMoniker": "UserModel.Designer.cs",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\UserModel.Designer.cs",
+              "RelativeToolTip": "UserModel.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T10:12:48.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\UserModel.cs",
+              "RelativeDocumentMoniker": "UserModel.cs",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\UserModel.cs",
+              "RelativeToolTip": "UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T10:12:34.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserModel.tt",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\UserModel.tt",
+              "RelativeDocumentMoniker": "UserModel.tt",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\UserModel.tt",
+              "RelativeToolTip": "UserModel.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-27T10:12:36.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserModel.edmx.diagram",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\UserModel.edmx.diagram",
+              "RelativeDocumentMoniker": "UserModel.edmx.diagram",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\UserModel.edmx.diagram",
+              "RelativeToolTip": "UserModel.edmx.diagram",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T07:52:27.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\DB.cs",
+              "RelativeDocumentMoniker": "DB.cs",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\DB.cs",
+              "RelativeToolTip": "DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:46:45.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\Role.cs",
+              "RelativeDocumentMoniker": "Role.cs",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\Role.cs",
+              "RelativeToolTip": "Role.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T14:55:02.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "sysdiagrams.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\sysdiagrams.cs",
+              "RelativeDocumentMoniker": "sysdiagrams.cs",
+              "ToolTip": "C:\\\u043F\u044031 \u0411\u0430\u0440\u0449\u0435\u0432\u0441\u043A\u0438\u0439\\User\u042E\u043D\u0433\u043C\u0430\u043D\\wpf_isrpo\\sysdiagrams.cs",
+              "RelativeToolTip": "sysdiagrams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T10:12:38.618Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
